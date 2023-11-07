@@ -4,6 +4,7 @@
 
 ---
 ![MyPhoto](./media/img.jpeg)
+[Valeriia Kulikova](https://valeriakul.github.io/portfolio/)
 
 ---
 
@@ -12,10 +13,12 @@
 <div align="left">
 
 **Portfolio:** [Valeriia Kulikova](https://valeriakul.github.io/portfolio/)
-**E-mail:** airelav.vk@gmail.com <br/>
-**Telegram:** [Valeriia_Kuli](https://t.me/Valeriia_Kuli) <br/>
-**GitHub:** [ValeriaKul](https://github.com/ValeriaKul) <br/>
-**Linkedin:** [Valeriia Kulikova](https://www.linkedin.com/in/valeriiakulikova/)</div>
+**E-mail:** airelav.vk@gmail.com
+**Telegram:** ![Valeriia_Kuli](https://t.me/Valeriia_Kuli)
+**GitHub:** ![ValeriaKul](https://github.com/ValeriaKul)
+**Linkedin:** ![Valeriia Kulikova](https://www.linkedin.com/in/valeriiakulikova/)
+
+</div>
 
 ### **🗂 🗄 Summary**
 
@@ -61,10 +64,10 @@ Initial front-end developer recently graduated, experience supporting and creati
 - Spanish - A2
 - Russian - native
 - Ukrainian - native
-  <br/><br/>
   ❤️... to be coninued<br/>
 
   ### *`Code example (from Codewars):`* 
+
 >**Convert string to camel case**
 
 >_Complete the method/function so that it converts dash/underscore delimited words into camel casing. The first word within the output should be capitalized only if the original word was capitalized (known as Upper Camel Case, also often referred to as Pascal case). The next words should be always capitalized._
