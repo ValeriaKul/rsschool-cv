@@ -9,15 +9,11 @@
 
 ### **📧 📲 Contact Info**
 
-<div align="left">
-
 **Portfolio:** [Valeriia Kulikova](https://valeriakul.github.io/portfolio/) </br>
-**E-mail:** airelav.vk@gmail.com
-**Telegram:** ![Valeriia_Kuli](https://t.me/Valeriia_Kuli)
-**GitHub:** ![ValeriaKul](https://github.com/ValeriaKul)
+**E-mail:** airelav.vk@gmail.com </br>
+**Telegram:** ![Valeriia_Kuli](https://t.me/Valeriia_Kuli) </br>
+**GitHub:** ![ValeriaKul](https://github.com/ValeriaKul) </br>
 **Linkedin:** ![Valeriia Kulikova](https://www.linkedin.com/in/valeriiakulikova/)
-
-</div>
 
 ### **🗂 🗄 Summary**
 
