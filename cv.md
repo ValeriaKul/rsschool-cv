@@ -1,4 +1,11 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=535&lines=I'm+Valeriia+💻+FrontEnd+Web+Developer!)](https://git.io/typing-svg)
+# `Valeriia Kulikova`
+
+### _junior frontend developer_
+
+---
+![MyPhoto](./media/img.jpeg)
+
+---
 
 ### **📧 📲 Contact Info**
 
@@ -56,3 +63,22 @@ Initial front-end developer recently graduated, experience supporting and creati
 - Ukrainian - native
   <br/><br/>
   ❤️... to be coninued<br/>
+
+  ### *`Code example (from Codewars):`* 
+>**Convert string to camel case**
+
+>_Complete the method/function so that it converts dash/underscore delimited words into camel casing. The first word within the output should be capitalized only if the original word was capitalized (known as Upper Camel Case, also often referred to as Pascal case). The next words should be always capitalized._
+
+```sh
+function toCamelCase(text){
+let textArray = text.split('');
+    for (let i = 0; i < textArray.length; i++) {
+        if (textArray[i] == '-' || textArray[i] == '_') {
+            textArray.splice(i, 1);
+            textArray[i] = textArray[i].toUpperCase();
+            }  
+        }   
+let newText =  textArray.join('');
+return newText;
+}
+```
