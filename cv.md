@@ -11,7 +11,7 @@
 
 <div align="left">
 
-**Portfolio:** [Valeriia Kulikova](https://valeriakul.github.io/portfolio/) <br/>
+**Portfolio:** [Valeriia Kulikova](https://valeriakul.github.io/portfolio/)
 **E-mail:** airelav.vk@gmail.com <br/>
 **Telegram:** [Valeriia_Kuli](https://t.me/Valeriia_Kuli) <br/>
 **GitHub:** [ValeriaKul](https://github.com/ValeriaKul) <br/>
