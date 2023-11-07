@@ -4,15 +4,14 @@
 
 ---
 ![MyPhoto](./media/img.jpeg)
-[Valeriia Kulikova](https://valeriakul.github.io/portfolio/)
-
+<!-- [Valeriia Kulikova](https://valeriakul.github.io/portfolio/) -->
 ---
 
 ### **📧 📲 Contact Info**
 
 <div align="left">
 
-**Portfolio:** [Valeriia Kulikova](https://valeriakul.github.io/portfolio/)
+**Portfolio:** [Valeriia Kulikova](https://valeriakul.github.io/portfolio/) </br>
 **E-mail:** airelav.vk@gmail.com
 **Telegram:** ![Valeriia_Kuli](https://t.me/Valeriia_Kuli)
 **GitHub:** ![ValeriaKul](https://github.com/ValeriaKul)
