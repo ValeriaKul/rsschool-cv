@@ -9,7 +9,7 @@
 
 ### **📧 📲 Contact Info**
 
-_Portfolio:_ [Valeriia Kulikova](https://valeriakul.github.io/portfolio/) <<br />
+_Portfolio:_ [Valeriia Kulikova](https://valeriakul.github.io/portfolio/) <br />
 _E-mail:_ airelav.vk@gmail.com <br />
 _Telegram:_ [Valeriia_Kuli](https://t.me/Valeriia_Kuli) <br />
 _GitHub:_ [ValeriaKul](https://github.com/ValeriaKul) <br />
